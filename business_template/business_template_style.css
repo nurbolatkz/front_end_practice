@@ -1,0 +1,104 @@
+ 
+.content-1 {
+	position: relative;
+	width: 100%;
+	min-height: auto;
+	text-align: center;
+	color: #fff;
+	background-image: url('images_business/header.jpg');
+	background-position: center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+}
+.title {
+	margin-top: 0;
+	margin-bottom: 20px;
+	font-size: 50px;
+	font-weight: 300;
+	line-height: 100px;
+	letter-spacing: 5px;
+}
+.content {
+	text-align: center;
+	margin: 0 auto;
+	position: relative;
+	width: 100%;
+	padding: 100px 15px 70px;
+	text-align: center;
+}
+.content p {
+	margin-bottom: 50px;
+	font-size: 16px;
+	font-weight: 300;
+	color: rgba(255,255,255,.7);
+}
+.content button  {
+	padding:  10px 15px;
+	background-color: #3DCB40;
+	color: #fff;
+	margin-top: 0px;
+	margin-bottom: 50px;
+	border-radius:  15px  15px 20px 20px;
+	border: 0.5px solid #fff;
+}
+.intro {
+	color: #fff;
+	background-color: yellowgreen;
+	padding: 70px 0;
+	text-align: center;
+}
+.intro h2{
+	margin-bottom: 45px;
+	line-height: 100px;
+}
+.main-content {
+	padding: 100px 0;
+}
+.promo,
+.promo h3,
+.promo a:link,
+.promo a:visited,
+.promo a:hover,
+.promo a:active {
+	color: white;
+	text-shadow: 0px 0px 40px black;
+	text-decoration: none;
+}
+
+.promo-item {
+	height: 200px;
+	line-height: 180px;
+	text-align: center;
+}
+
+.promo-item:hover {
+	background-size: 110%; 
+	border: 10px solid rgba(255,255,255,0.3);
+	line-height: 160px;
+}
+.promo-item h3 {
+	font-size: 40px;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.item-1 {
+	background: url('images_business/pencil_sharpener.jpg');
+	}
+	
+.item-2 {
+	background: url('images_business/writing.jpg');
+	}
+	
+.item-3 {
+	background: url('images_business/concert.jpg');
+	}
+		
+.item-1,
+.item-2,
+.item-3 {
+	background-size: cover;
+	background-position: 50% 50%;
+	}
