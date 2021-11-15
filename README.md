@@ -4,3 +4,5 @@ In this folder I have collected html, css, js practice works. And included beaut
 [Amazing card animation](https://htmlpreview.github.io/?https://github.com/nurbolatkz/front_end_practice/blob/main/card.html)
 
 [Business template](https://htmlpreview.github.io/?https://github.com/nurbolatkz/front_end_practice/blob/main/business_template/business_template.html)
+
+[Portfolio](https://htmlpreview.github.io/?https://github.com/nurbolatkz/front_end_practice/blob/main/portfolio/project_portfolio.html)
